@@ -1,2 +1,3 @@
-# scaladores
-Códigos utilizados na apresentação "ORIGAMI em Scala", do Scaladores #44
+# HODGP / Origami Programming
+
+This code is based on the [Design Patterns as High-Order Datatype-Generic Programs](http://www.cs.ox.ac.uk/jeremy.gibbons/publications/hodgp.pdf), by Jeremy Gibbons
